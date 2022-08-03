@@ -1,14 +1,14 @@
 # Week01CodeRefactor
 Make the existing code for Horiseon more accesible and streamlined. 
 
-## Descrciption
+## Description
 
-Take the existing html and css code for Horiseon and make it more accessible and easier to follow. 
-    *Semantic elements were added
-    *alt attributes added to images
-    *Classes were consolidated 
-    *Comments inserted for easier readability
-
+Take the existing html and css code for Horiseon and make it more accessible and easier to follow.
+* Semantic elements were added
+* alt attributes added to images
+* Classes were consolidated
+* Comments inserted for easier readability
+    
 ## Mock-up
 The image below shows the webpage refactored.
 
